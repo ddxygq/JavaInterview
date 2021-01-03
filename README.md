@@ -3,4 +3,5 @@
 
 ## Java基础
 
-1. [安装java](/ddxygq/JavaInterview/blob/master/docs/basic/java-install.md)
+1. [安装java](docs/basic/java-install.md)
+
